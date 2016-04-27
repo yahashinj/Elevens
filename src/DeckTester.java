@@ -52,5 +52,7 @@ public class DeckTester {
 		System.out.println();
 
 		/* *** TO BE COMPLETED IN ACTIVITY 4 *** */
+		String [] rank2 = {"2", "3", "4","5","6","7","8","9","10","Jack","Queen","King","Ace"};
+		String [] suit2 = {"Diamonds","Hearts","Clubs","Spades"};
 	}
 }
